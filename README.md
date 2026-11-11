@@ -1,4 +1,4 @@
-# sage-web-endec
+# SAGE-WEB-ENDEC
 SAGE WEB ENDEC is a SAGE DIGITAL ENDEC Simulator for those who don't have an SAGE DIGITAL ENDEC.
 
 is a single self-contained file (no dependencies) that opens in any modern browser. I tested it headless in Chrome: the menu, RWT send, decoder, log and MSG screen all worked with no script errors. I did not listen to the audio, so check the tones and voice on your own speakers.
